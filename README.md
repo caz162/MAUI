@@ -1,1 +1,1 @@
-# MAUI
+# Example MAUI project
